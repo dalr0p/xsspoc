@@ -1,1 +1,10 @@
-<script>alert(document.domain)</script>
+<!-- xss.html -->
+<!DOCTYPE html>
+<html>
+  <head><title>XSS Test</title></head>
+  <body>
+    <script>
+      alert("🔥 XSS from iframe: " + document.domain);
+    </script>
+  </body>
+</html>
